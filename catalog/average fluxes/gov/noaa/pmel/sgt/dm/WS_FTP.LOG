@@ -1,0 +1,254 @@
+2001.12.06 14:57 B D:\0ctof3\gov\noaa\pmel\sgt\dm\Cartesian.class --> 192.168.0.157 /dev/0ctof3/gov/noaa/pmel/sgt/dm Cartesian.class
+2001.12.06 14:57 B D:\0ctof3\gov\noaa\pmel\sgt\dm\Collection.class --> 192.168.0.157 /dev/0ctof3/gov/noaa/pmel/sgt/dm Collection.class
+2001.12.06 14:57 B D:\0ctof3\gov\noaa\pmel\sgt\dm\CoordinateSystem.class --> 192.168.0.157 /dev/0ctof3/gov/noaa/pmel/sgt/dm CoordinateSystem.class
+2001.12.06 14:57 B D:\0ctof3\gov\noaa\pmel\sgt\dm\Geographic.class --> 192.168.0.157 /dev/0ctof3/gov/noaa/pmel/sgt/dm Geographic.class
+2001.12.06 14:57 B D:\0ctof3\gov\noaa\pmel\sgt\dm\PointCollection.class --> 192.168.0.157 /dev/0ctof3/gov/noaa/pmel/sgt/dm PointCollection.class
+2001.12.06 14:57 B D:\0ctof3\gov\noaa\pmel\sgt\dm\Polar.class --> 192.168.0.157 /dev/0ctof3/gov/noaa/pmel/sgt/dm Polar.class
+2001.12.06 14:57 B D:\0ctof3\gov\noaa\pmel\sgt\dm\SGTData.class --> 192.168.0.157 /dev/0ctof3/gov/noaa/pmel/sgt/dm SGTData.class
+2001.12.06 14:57 B D:\0ctof3\gov\noaa\pmel\sgt\dm\SGTGrid.class --> 192.168.0.157 /dev/0ctof3/gov/noaa/pmel/sgt/dm SGTGrid.class
+2001.12.06 14:57 B D:\0ctof3\gov\noaa\pmel\sgt\dm\SGTImage.class --> 192.168.0.157 /dev/0ctof3/gov/noaa/pmel/sgt/dm SGTImage.class
+2001.12.06 14:57 B D:\0ctof3\gov\noaa\pmel\sgt\dm\SGTLine.class --> 192.168.0.157 /dev/0ctof3/gov/noaa/pmel/sgt/dm SGTLine.class
+2001.12.06 14:57 B D:\0ctof3\gov\noaa\pmel\sgt\dm\SGTMetaData.class --> 192.168.0.157 /dev/0ctof3/gov/noaa/pmel/sgt/dm SGTMetaData.class
+2001.12.06 14:57 B D:\0ctof3\gov\noaa\pmel\sgt\dm\SGTPoint.class --> 192.168.0.157 /dev/0ctof3/gov/noaa/pmel/sgt/dm SGTPoint.class
+2001.12.06 14:57 B D:\0ctof3\gov\noaa\pmel\sgt\dm\SGTVector.class --> 192.168.0.157 /dev/0ctof3/gov/noaa/pmel/sgt/dm SGTVector.class
+2001.12.06 14:57 B D:\0ctof3\gov\noaa\pmel\sgt\dm\SimpleGrid.class --> 192.168.0.157 /dev/0ctof3/gov/noaa/pmel/sgt/dm SimpleGrid.class
+2001.12.06 14:57 B D:\0ctof3\gov\noaa\pmel\sgt\dm\SimpleLine.class --> 192.168.0.157 /dev/0ctof3/gov/noaa/pmel/sgt/dm SimpleLine.class
+2001.12.06 14:57 B D:\0ctof3\gov\noaa\pmel\sgt\dm\SimplePoint.class --> 192.168.0.157 /dev/0ctof3/gov/noaa/pmel/sgt/dm SimplePoint.class
+2000.02.25 04:38 B D:\0ctof3\gov\noaa\pmel\sgt\dm\Cartesian.class --> 192.168.0.193 \0ctof3\gov\noaa\pmel\sgt\dm Cartesian.class
+2000.02.25 04:38 B D:\0ctof3\gov\noaa\pmel\sgt\dm\Collection.class --> 192.168.0.193 \0ctof3\gov\noaa\pmel\sgt\dm Collection.class
+2000.02.25 04:38 B D:\0ctof3\gov\noaa\pmel\sgt\dm\CoordinateSystem.class --> 192.168.0.193 \0ctof3\gov\noaa\pmel\sgt\dm CoordinateSystem.class
+2000.02.25 04:38 B D:\0ctof3\gov\noaa\pmel\sgt\dm\Geographic.class --> 192.168.0.193 \0ctof3\gov\noaa\pmel\sgt\dm Geographic.class
+2000.02.25 04:38 B D:\0ctof3\gov\noaa\pmel\sgt\dm\PointCollection.class --> 192.168.0.193 \0ctof3\gov\noaa\pmel\sgt\dm PointCollection.class
+2000.02.25 04:38 B D:\0ctof3\gov\noaa\pmel\sgt\dm\Polar.class --> 192.168.0.193 \0ctof3\gov\noaa\pmel\sgt\dm Polar.class
+2000.02.25 04:38 B D:\0ctof3\gov\noaa\pmel\sgt\dm\SGTData.class --> 192.168.0.193 \0ctof3\gov\noaa\pmel\sgt\dm SGTData.class
+2000.02.25 04:39 B D:\0ctof3\gov\noaa\pmel\sgt\dm\SGTGrid.class --> 192.168.0.193 \0ctof3\gov\noaa\pmel\sgt\dm SGTGrid.class
+2000.02.25 04:39 B D:\0ctof3\gov\noaa\pmel\sgt\dm\SGTImage.class --> 192.168.0.193 \0ctof3\gov\noaa\pmel\sgt\dm SGTImage.class
+2000.02.25 04:39 B D:\0ctof3\gov\noaa\pmel\sgt\dm\SGTLine.class --> 192.168.0.193 \0ctof3\gov\noaa\pmel\sgt\dm SGTLine.class
+2000.02.25 04:39 B D:\0ctof3\gov\noaa\pmel\sgt\dm\SGTMetaData.class --> 192.168.0.193 \0ctof3\gov\noaa\pmel\sgt\dm SGTMetaData.class
+2000.02.25 04:39 B D:\0ctof3\gov\noaa\pmel\sgt\dm\SGTPoint.class --> 192.168.0.193 \0ctof3\gov\noaa\pmel\sgt\dm SGTPoint.class
+2000.02.25 04:39 B D:\0ctof3\gov\noaa\pmel\sgt\dm\SGTVector.class --> 192.168.0.193 \0ctof3\gov\noaa\pmel\sgt\dm SGTVector.class
+2000.02.25 04:39 B D:\0ctof3\gov\noaa\pmel\sgt\dm\SimpleGrid.class --> 192.168.0.193 \0ctof3\gov\noaa\pmel\sgt\dm SimpleGrid.class
+2000.02.25 04:39 B D:\0ctof3\gov\noaa\pmel\sgt\dm\SimpleLine.class --> 192.168.0.193 \0ctof3\gov\noaa\pmel\sgt\dm SimpleLine.class
+2000.02.25 04:39 B D:\0ctof3\gov\noaa\pmel\sgt\dm\SimplePoint.class --> 192.168.0.193 \0ctof3\gov\noaa\pmel\sgt\dm SimplePoint.class
+2002.04.08 02:55 B C:\0ctof3\gov\noaa\pmel\sgt\dm\Cartesian.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/sgt/dm Cartesian.class
+2002.04.08 02:55 B C:\0ctof3\gov\noaa\pmel\sgt\dm\Collection.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/sgt/dm Collection.class
+2002.04.08 02:55 B C:\0ctof3\gov\noaa\pmel\sgt\dm\CoordinateSystem.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/sgt/dm CoordinateSystem.class
+2002.04.08 02:55 B C:\0ctof3\gov\noaa\pmel\sgt\dm\Geographic.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/sgt/dm Geographic.class
+2002.04.08 02:55 B C:\0ctof3\gov\noaa\pmel\sgt\dm\PointCollection.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/sgt/dm PointCollection.class
+2002.04.08 02:55 B C:\0ctof3\gov\noaa\pmel\sgt\dm\Polar.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/sgt/dm Polar.class
+2002.04.08 02:55 B C:\0ctof3\gov\noaa\pmel\sgt\dm\SGTData.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/sgt/dm SGTData.class
+2002.04.08 02:55 B C:\0ctof3\gov\noaa\pmel\sgt\dm\SGTGrid.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/sgt/dm SGTGrid.class
+2002.04.08 02:55 B C:\0ctof3\gov\noaa\pmel\sgt\dm\SGTImage.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/sgt/dm SGTImage.class
+2002.04.08 02:55 B C:\0ctof3\gov\noaa\pmel\sgt\dm\SGTLine.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/sgt/dm SGTLine.class
+2002.04.08 02:55 B C:\0ctof3\gov\noaa\pmel\sgt\dm\SGTMetaData.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/sgt/dm SGTMetaData.class
+2002.04.08 02:55 B C:\0ctof3\gov\noaa\pmel\sgt\dm\SGTPoint.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/sgt/dm SGTPoint.class
+2002.04.08 02:55 B C:\0ctof3\gov\noaa\pmel\sgt\dm\SGTVector.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/sgt/dm SGTVector.class
+2002.04.08 02:55 B C:\0ctof3\gov\noaa\pmel\sgt\dm\SimpleGrid.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/sgt/dm SimpleGrid.class
+2002.04.08 02:55 B C:\0ctof3\gov\noaa\pmel\sgt\dm\SimpleLine.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/sgt/dm SimpleLine.class
+2002.04.08 02:55 B C:\0ctof3\gov\noaa\pmel\sgt\dm\SimplePoint.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/sgt/dm SimplePoint.class
+2002.04.08 02:55 B C:\0ctof3\gov\noaa\pmel\sgt\dm\WS_FTP.LOG --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/sgt/dm WS_FTP.LOG
+2002.04.21 10:01 B C:\0ctof3\gov\noaa\pmel\sgt\dm\Cartesian.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/sgt/dm Cartesian.class
+2002.04.21 10:01 B C:\0ctof3\gov\noaa\pmel\sgt\dm\Collection.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/sgt/dm Collection.class
+2002.04.21 10:01 B C:\0ctof3\gov\noaa\pmel\sgt\dm\CoordinateSystem.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/sgt/dm CoordinateSystem.class
+2002.04.21 10:01 B C:\0ctof3\gov\noaa\pmel\sgt\dm\Geographic.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/sgt/dm Geographic.class
+2002.04.21 10:01 B C:\0ctof3\gov\noaa\pmel\sgt\dm\PointCollection.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/sgt/dm PointCollection.class
+2002.04.21 10:01 B C:\0ctof3\gov\noaa\pmel\sgt\dm\Polar.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/sgt/dm Polar.class
+2002.04.21 10:01 B C:\0ctof3\gov\noaa\pmel\sgt\dm\SGTData.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/sgt/dm SGTData.class
+2002.04.21 10:01 B C:\0ctof3\gov\noaa\pmel\sgt\dm\SGTGrid.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/sgt/dm SGTGrid.class
+2002.04.21 10:01 B C:\0ctof3\gov\noaa\pmel\sgt\dm\SGTImage.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/sgt/dm SGTImage.class
+2002.04.21 10:01 B C:\0ctof3\gov\noaa\pmel\sgt\dm\SGTLine.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/sgt/dm SGTLine.class
+2002.04.21 10:01 B C:\0ctof3\gov\noaa\pmel\sgt\dm\SGTMetaData.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/sgt/dm SGTMetaData.class
+2002.04.21 10:01 B C:\0ctof3\gov\noaa\pmel\sgt\dm\SGTPoint.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/sgt/dm SGTPoint.class
+2002.04.21 10:01 B C:\0ctof3\gov\noaa\pmel\sgt\dm\SGTVector.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/sgt/dm SGTVector.class
+2002.04.21 10:01 B C:\0ctof3\gov\noaa\pmel\sgt\dm\SimpleGrid.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/sgt/dm SimpleGrid.class
+2002.04.21 10:01 B C:\0ctof3\gov\noaa\pmel\sgt\dm\SimpleLine.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/sgt/dm SimpleLine.class
+2002.04.21 10:01 B C:\0ctof3\gov\noaa\pmel\sgt\dm\SimplePoint.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/sgt/dm SimplePoint.class
+2002.04.21 10:01 B C:\0ctof3\gov\noaa\pmel\sgt\dm\WS_FTP.LOG --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/sgt/dm WS_FTP.LOG
+2002.05.02 14:04 B C:\0ctof3\gov\noaa\pmel\sgt\dm\Cartesian.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/gov/noaa/pmel/sgt/dm Cartesian.class
+2002.05.02 14:04 B C:\0ctof3\gov\noaa\pmel\sgt\dm\Collection.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/gov/noaa/pmel/sgt/dm Collection.class
+2002.05.02 14:04 B C:\0ctof3\gov\noaa\pmel\sgt\dm\CoordinateSystem.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/gov/noaa/pmel/sgt/dm CoordinateSystem.class
+2002.05.02 14:04 B C:\0ctof3\gov\noaa\pmel\sgt\dm\Geographic.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/gov/noaa/pmel/sgt/dm Geographic.class
+2002.05.02 14:04 B C:\0ctof3\gov\noaa\pmel\sgt\dm\PointCollection.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/gov/noaa/pmel/sgt/dm PointCollection.class
+2002.05.02 14:04 B C:\0ctof3\gov\noaa\pmel\sgt\dm\Polar.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/gov/noaa/pmel/sgt/dm Polar.class
+2002.05.02 14:04 B C:\0ctof3\gov\noaa\pmel\sgt\dm\SGTData.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/gov/noaa/pmel/sgt/dm SGTData.class
+2002.05.02 14:04 B C:\0ctof3\gov\noaa\pmel\sgt\dm\SGTGrid.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/gov/noaa/pmel/sgt/dm SGTGrid.class
+2002.05.02 14:04 B C:\0ctof3\gov\noaa\pmel\sgt\dm\SGTImage.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/gov/noaa/pmel/sgt/dm SGTImage.class
+2002.05.02 14:04 B C:\0ctof3\gov\noaa\pmel\sgt\dm\SGTLine.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/gov/noaa/pmel/sgt/dm SGTLine.class
+2002.05.02 14:04 B C:\0ctof3\gov\noaa\pmel\sgt\dm\SGTMetaData.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/gov/noaa/pmel/sgt/dm SGTMetaData.class
+2002.05.02 14:04 B C:\0ctof3\gov\noaa\pmel\sgt\dm\SGTPoint.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/gov/noaa/pmel/sgt/dm SGTPoint.class
+2002.05.02 14:04 B C:\0ctof3\gov\noaa\pmel\sgt\dm\SGTVector.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/gov/noaa/pmel/sgt/dm SGTVector.class
+2002.05.02 14:04 B C:\0ctof3\gov\noaa\pmel\sgt\dm\SimpleGrid.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/gov/noaa/pmel/sgt/dm SimpleGrid.class
+2002.05.02 14:04 B C:\0ctof3\gov\noaa\pmel\sgt\dm\SimpleLine.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/gov/noaa/pmel/sgt/dm SimpleLine.class
+2002.05.02 14:04 B C:\0ctof3\gov\noaa\pmel\sgt\dm\SimplePoint.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/gov/noaa/pmel/sgt/dm SimplePoint.class
+2002.05.02 14:04 B C:\0ctof3\gov\noaa\pmel\sgt\dm\WS_FTP.LOG --> atlas.sr.unh.edu /home/lsaul/0ctof3/gov/noaa/pmel/sgt/dm WS_FTP.LOG
+2002.05.05 02:37 B C:\0ctof3\gov\noaa\pmel\sgt\dm\Cartesian.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/sgt/dm Cartesian.class
+2002.05.05 02:37 B C:\0ctof3\gov\noaa\pmel\sgt\dm\Collection.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/sgt/dm Collection.class
+2002.05.05 02:37 B C:\0ctof3\gov\noaa\pmel\sgt\dm\CoordinateSystem.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/sgt/dm CoordinateSystem.class
+2002.05.05 02:37 B C:\0ctof3\gov\noaa\pmel\sgt\dm\Geographic.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/sgt/dm Geographic.class
+2002.05.05 02:37 B C:\0ctof3\gov\noaa\pmel\sgt\dm\PointCollection.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/sgt/dm PointCollection.class
+2002.05.05 02:37 B C:\0ctof3\gov\noaa\pmel\sgt\dm\Polar.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/sgt/dm Polar.class
+2002.05.05 02:37 B C:\0ctof3\gov\noaa\pmel\sgt\dm\SGTData.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/sgt/dm SGTData.class
+2002.05.05 02:37 B C:\0ctof3\gov\noaa\pmel\sgt\dm\SGTGrid.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/sgt/dm SGTGrid.class
+2002.05.05 02:37 B C:\0ctof3\gov\noaa\pmel\sgt\dm\SGTImage.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/sgt/dm SGTImage.class
+2002.05.05 02:37 B C:\0ctof3\gov\noaa\pmel\sgt\dm\SGTLine.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/sgt/dm SGTLine.class
+2002.05.05 02:37 B C:\0ctof3\gov\noaa\pmel\sgt\dm\SGTMetaData.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/sgt/dm SGTMetaData.class
+2002.05.05 02:37 B C:\0ctof3\gov\noaa\pmel\sgt\dm\SGTPoint.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/sgt/dm SGTPoint.class
+2002.05.05 02:37 B C:\0ctof3\gov\noaa\pmel\sgt\dm\SGTVector.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/sgt/dm SGTVector.class
+2002.05.05 02:37 B C:\0ctof3\gov\noaa\pmel\sgt\dm\SimpleGrid.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/sgt/dm SimpleGrid.class
+2002.05.05 02:37 B C:\0ctof3\gov\noaa\pmel\sgt\dm\SimpleLine.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/sgt/dm SimpleLine.class
+2002.05.05 02:37 B C:\0ctof3\gov\noaa\pmel\sgt\dm\SimplePoint.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/sgt/dm SimplePoint.class
+2002.05.05 02:37 B C:\0ctof3\gov\noaa\pmel\sgt\dm\WS_FTP.LOG --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/sgt/dm WS_FTP.LOG
+2002.05.22 15:33 B C:\0ctof3\gov\noaa\pmel\sgt\dm\WS_FTP.LOG --> atlas.sr.unh.edu /home/lsaul/0ctof3/gov/noaa/pmel/sgt/dm WS_FTP.LOG
+2002.05.26 00:35 B C:\0ctof3\gov\noaa\pmel\sgt\dm\WS_FTP.LOG --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/sgt/dm WS_FTP.LOG
+2002.06.12 14:24 B C:\0ctof3\gov\noaa\pmel\sgt\dm\WS_FTP.LOG --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/sgt/dm WS_FTP.LOG
+2002.07.13 14:34 B C:\0ctof3\average fluxes\gov\noaa\pmel\sgt\dm\Cartesian.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/sgt/dm Cartesian.class
+2002.07.13 14:34 B C:\0ctof3\average fluxes\gov\noaa\pmel\sgt\dm\Collection.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/sgt/dm Collection.class
+2002.07.13 14:34 B C:\0ctof3\average fluxes\gov\noaa\pmel\sgt\dm\CoordinateSystem.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/sgt/dm CoordinateSystem.class
+2002.07.13 14:34 B C:\0ctof3\average fluxes\gov\noaa\pmel\sgt\dm\Geographic.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/sgt/dm Geographic.class
+2002.07.13 14:34 B C:\0ctof3\average fluxes\gov\noaa\pmel\sgt\dm\PointCollection.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/sgt/dm PointCollection.class
+2002.07.13 14:34 B C:\0ctof3\average fluxes\gov\noaa\pmel\sgt\dm\Polar.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/sgt/dm Polar.class
+2002.07.13 14:34 B C:\0ctof3\average fluxes\gov\noaa\pmel\sgt\dm\SGTData.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/sgt/dm SGTData.class
+2002.07.13 14:34 B C:\0ctof3\average fluxes\gov\noaa\pmel\sgt\dm\SGTGrid.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/sgt/dm SGTGrid.class
+2002.07.13 14:34 B C:\0ctof3\average fluxes\gov\noaa\pmel\sgt\dm\SGTImage.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/sgt/dm SGTImage.class
+2002.07.13 14:34 B C:\0ctof3\average fluxes\gov\noaa\pmel\sgt\dm\SGTLine.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/sgt/dm SGTLine.class
+2002.07.13 14:34 B C:\0ctof3\average fluxes\gov\noaa\pmel\sgt\dm\SGTMetaData.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/sgt/dm SGTMetaData.class
+2002.07.13 14:34 B C:\0ctof3\average fluxes\gov\noaa\pmel\sgt\dm\SGTPoint.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/sgt/dm SGTPoint.class
+2002.07.13 14:34 B C:\0ctof3\average fluxes\gov\noaa\pmel\sgt\dm\SGTVector.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/sgt/dm SGTVector.class
+2002.07.13 14:34 B C:\0ctof3\average fluxes\gov\noaa\pmel\sgt\dm\SimpleGrid.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/sgt/dm SimpleGrid.class
+2002.07.13 14:34 B C:\0ctof3\average fluxes\gov\noaa\pmel\sgt\dm\SimpleLine.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/sgt/dm SimpleLine.class
+2002.07.13 14:34 B C:\0ctof3\average fluxes\gov\noaa\pmel\sgt\dm\SimplePoint.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/sgt/dm SimplePoint.class
+2002.07.13 14:34 B C:\0ctof3\average fluxes\gov\noaa\pmel\sgt\dm\WS_FTP.LOG --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/sgt/dm WS_FTP.LOG
+2002.07.26 11:40 B C:\0ctof3\average fluxes\gov\noaa\pmel\sgt\dm\Cartesian.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/sgt/dm Cartesian.class
+2002.07.26 11:40 B C:\0ctof3\average fluxes\gov\noaa\pmel\sgt\dm\Collection.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/sgt/dm Collection.class
+2002.07.26 11:40 B C:\0ctof3\average fluxes\gov\noaa\pmel\sgt\dm\CoordinateSystem.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/sgt/dm CoordinateSystem.class
+2002.07.26 11:40 B C:\0ctof3\average fluxes\gov\noaa\pmel\sgt\dm\Geographic.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/sgt/dm Geographic.class
+2002.07.26 11:40 B C:\0ctof3\average fluxes\gov\noaa\pmel\sgt\dm\PointCollection.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/sgt/dm PointCollection.class
+2002.07.26 11:40 B C:\0ctof3\average fluxes\gov\noaa\pmel\sgt\dm\Polar.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/sgt/dm Polar.class
+2002.07.26 11:40 B C:\0ctof3\average fluxes\gov\noaa\pmel\sgt\dm\SGTData.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/sgt/dm SGTData.class
+2002.07.26 11:40 B C:\0ctof3\average fluxes\gov\noaa\pmel\sgt\dm\SGTGrid.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/sgt/dm SGTGrid.class
+2002.07.26 11:40 B C:\0ctof3\average fluxes\gov\noaa\pmel\sgt\dm\SGTImage.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/sgt/dm SGTImage.class
+2002.07.26 11:40 B C:\0ctof3\average fluxes\gov\noaa\pmel\sgt\dm\SGTLine.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/sgt/dm SGTLine.class
+2002.07.26 11:40 B C:\0ctof3\average fluxes\gov\noaa\pmel\sgt\dm\SGTMetaData.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/sgt/dm SGTMetaData.class
+2002.07.26 11:40 B C:\0ctof3\average fluxes\gov\noaa\pmel\sgt\dm\SGTPoint.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/sgt/dm SGTPoint.class
+2002.07.26 11:40 B C:\0ctof3\average fluxes\gov\noaa\pmel\sgt\dm\SGTVector.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/sgt/dm SGTVector.class
+2002.07.26 11:40 B C:\0ctof3\average fluxes\gov\noaa\pmel\sgt\dm\SimpleGrid.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/sgt/dm SimpleGrid.class
+2002.07.26 11:40 B C:\0ctof3\average fluxes\gov\noaa\pmel\sgt\dm\SimpleLine.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/sgt/dm SimpleLine.class
+2002.07.26 11:40 B C:\0ctof3\average fluxes\gov\noaa\pmel\sgt\dm\SimplePoint.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/sgt/dm SimplePoint.class
+2002.07.26 11:40 B C:\0ctof3\average fluxes\gov\noaa\pmel\sgt\dm\WS_FTP.LOG --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/sgt/dm WS_FTP.LOG
+2002.07.26 11:59 B C:\0ctof3\average fluxes\gov\noaa\pmel\sgt\dm\WS_FTP.LOG --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/sgt/dm WS_FTP.LOG
+2002.08.14 17:48 B C:\0ctof3\average fluxes\gov\noaa\pmel\sgt\dm\Cartesian.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/average fluxes/gov/noaa/pmel/sgt/dm Cartesian.class
+2002.08.14 17:48 B C:\0ctof3\average fluxes\gov\noaa\pmel\sgt\dm\Collection.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/average fluxes/gov/noaa/pmel/sgt/dm Collection.class
+2002.08.14 17:48 B C:\0ctof3\average fluxes\gov\noaa\pmel\sgt\dm\CoordinateSystem.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/average fluxes/gov/noaa/pmel/sgt/dm CoordinateSystem.class
+2002.08.14 17:48 B C:\0ctof3\average fluxes\gov\noaa\pmel\sgt\dm\Geographic.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/average fluxes/gov/noaa/pmel/sgt/dm Geographic.class
+2002.08.14 17:48 B C:\0ctof3\average fluxes\gov\noaa\pmel\sgt\dm\PointCollection.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/average fluxes/gov/noaa/pmel/sgt/dm PointCollection.class
+2002.08.14 17:48 B C:\0ctof3\average fluxes\gov\noaa\pmel\sgt\dm\Polar.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/average fluxes/gov/noaa/pmel/sgt/dm Polar.class
+2002.08.14 17:48 B C:\0ctof3\average fluxes\gov\noaa\pmel\sgt\dm\SGTData.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/average fluxes/gov/noaa/pmel/sgt/dm SGTData.class
+2002.08.14 17:48 B C:\0ctof3\average fluxes\gov\noaa\pmel\sgt\dm\SGTGrid.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/average fluxes/gov/noaa/pmel/sgt/dm SGTGrid.class
+2002.08.14 17:48 B C:\0ctof3\average fluxes\gov\noaa\pmel\sgt\dm\SGTImage.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/average fluxes/gov/noaa/pmel/sgt/dm SGTImage.class
+2002.08.14 17:48 B C:\0ctof3\average fluxes\gov\noaa\pmel\sgt\dm\SGTLine.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/average fluxes/gov/noaa/pmel/sgt/dm SGTLine.class
+2002.08.14 17:48 B C:\0ctof3\average fluxes\gov\noaa\pmel\sgt\dm\SGTMetaData.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/average fluxes/gov/noaa/pmel/sgt/dm SGTMetaData.class
+2002.08.14 17:48 B C:\0ctof3\average fluxes\gov\noaa\pmel\sgt\dm\SGTPoint.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/average fluxes/gov/noaa/pmel/sgt/dm SGTPoint.class
+2002.08.14 17:48 B C:\0ctof3\average fluxes\gov\noaa\pmel\sgt\dm\SGTVector.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/average fluxes/gov/noaa/pmel/sgt/dm SGTVector.class
+2002.08.14 17:48 B C:\0ctof3\average fluxes\gov\noaa\pmel\sgt\dm\SimpleGrid.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/average fluxes/gov/noaa/pmel/sgt/dm SimpleGrid.class
+2002.08.14 17:48 B C:\0ctof3\average fluxes\gov\noaa\pmel\sgt\dm\SimpleLine.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/average fluxes/gov/noaa/pmel/sgt/dm SimpleLine.class
+2002.08.14 17:48 B C:\0ctof3\average fluxes\gov\noaa\pmel\sgt\dm\SimplePoint.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/average fluxes/gov/noaa/pmel/sgt/dm SimplePoint.class
+2002.08.14 17:48 B C:\0ctof3\average fluxes\gov\noaa\pmel\sgt\dm\WS_FTP.LOG --> atlas.sr.unh.edu /home/lsaul/0ctof3/average fluxes/gov/noaa/pmel/sgt/dm WS_FTP.LOG
+2002.08.15 10:46 B C:\0ctof3\average fluxes\gov\noaa\pmel\sgt\dm\WS_FTP.LOG --> atlas.sr.unh.edu /home/lsaul/0ctof3/average fluxes/gov/noaa/pmel/sgt/dm WS_FTP.LOG
+2002.08.15 11:39 B C:\0ctof3\average fluxes\gov\noaa\pmel\sgt\dm\WS_FTP.LOG --> atlas.sr.unh.edu /home/lsaul/0ctof3/average fluxes/gov/noaa/pmel/sgt/dm WS_FTP.LOG
+2002.08.18 12:34 B C:\0ctof3\average fluxes\gov\noaa\pmel\sgt\dm\WS_FTP.LOG --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/sgt/dm WS_FTP.LOG
+2000.09.06 00:11 B C:\0ctof3\average fluxes\gov\noaa\pmel\sgt\dm\WS_FTP.LOG <-- 17 stratham lane /backup/0ctof3/average fluxes/gov/noaa/pmel/sgt/dm WS_FTP.LOG
+2003.02.19 00:44 B D:\0ctof3\average fluxes\gov\noaa\pmel\sgt\dm\Cartesian.class --> 192.168.0.126 /backup/average fluxes/gov/noaa/pmel/sgt/dm Cartesian.class
+2003.02.19 00:44 B D:\0ctof3\average fluxes\gov\noaa\pmel\sgt\dm\Collection.class --> 192.168.0.126 /backup/average fluxes/gov/noaa/pmel/sgt/dm Collection.class
+2003.02.19 00:44 B D:\0ctof3\average fluxes\gov\noaa\pmel\sgt\dm\CoordinateSystem.class --> 192.168.0.126 /backup/average fluxes/gov/noaa/pmel/sgt/dm CoordinateSystem.class
+2003.02.19 00:44 B D:\0ctof3\average fluxes\gov\noaa\pmel\sgt\dm\Geographic.class --> 192.168.0.126 /backup/average fluxes/gov/noaa/pmel/sgt/dm Geographic.class
+2003.02.19 00:44 B D:\0ctof3\average fluxes\gov\noaa\pmel\sgt\dm\PointCollection.class --> 192.168.0.126 /backup/average fluxes/gov/noaa/pmel/sgt/dm PointCollection.class
+2003.02.19 00:44 B D:\0ctof3\average fluxes\gov\noaa\pmel\sgt\dm\Polar.class --> 192.168.0.126 /backup/average fluxes/gov/noaa/pmel/sgt/dm Polar.class
+2003.02.19 00:44 B D:\0ctof3\average fluxes\gov\noaa\pmel\sgt\dm\SGTData.class --> 192.168.0.126 /backup/average fluxes/gov/noaa/pmel/sgt/dm SGTData.class
+2003.02.19 00:44 B D:\0ctof3\average fluxes\gov\noaa\pmel\sgt\dm\SGTGrid.class --> 192.168.0.126 /backup/average fluxes/gov/noaa/pmel/sgt/dm SGTGrid.class
+2003.02.19 00:44 B D:\0ctof3\average fluxes\gov\noaa\pmel\sgt\dm\SGTImage.class --> 192.168.0.126 /backup/average fluxes/gov/noaa/pmel/sgt/dm SGTImage.class
+2003.02.19 00:44 B D:\0ctof3\average fluxes\gov\noaa\pmel\sgt\dm\SGTLine.class --> 192.168.0.126 /backup/average fluxes/gov/noaa/pmel/sgt/dm SGTLine.class
+2003.02.19 00:44 B D:\0ctof3\average fluxes\gov\noaa\pmel\sgt\dm\SGTMetaData.class --> 192.168.0.126 /backup/average fluxes/gov/noaa/pmel/sgt/dm SGTMetaData.class
+2003.02.19 00:44 B D:\0ctof3\average fluxes\gov\noaa\pmel\sgt\dm\SGTPoint.class --> 192.168.0.126 /backup/average fluxes/gov/noaa/pmel/sgt/dm SGTPoint.class
+2003.02.19 00:44 B D:\0ctof3\average fluxes\gov\noaa\pmel\sgt\dm\SGTVector.class --> 192.168.0.126 /backup/average fluxes/gov/noaa/pmel/sgt/dm SGTVector.class
+2003.02.19 00:44 B D:\0ctof3\average fluxes\gov\noaa\pmel\sgt\dm\SimpleGrid.class --> 192.168.0.126 /backup/average fluxes/gov/noaa/pmel/sgt/dm SimpleGrid.class
+2003.02.19 00:44 B D:\0ctof3\average fluxes\gov\noaa\pmel\sgt\dm\SimpleLine.class --> 192.168.0.126 /backup/average fluxes/gov/noaa/pmel/sgt/dm SimpleLine.class
+2003.02.19 00:44 B D:\0ctof3\average fluxes\gov\noaa\pmel\sgt\dm\SimplePoint.class --> 192.168.0.126 /backup/average fluxes/gov/noaa/pmel/sgt/dm SimplePoint.class
+2003.02.19 00:44 B D:\0ctof3\average fluxes\gov\noaa\pmel\sgt\dm\WS_FTP.LOG --> 192.168.0.126 /backup/average fluxes/gov/noaa/pmel/sgt/dm WS_FTP.LOG
+2003.04.24 18:49 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\Cartesian.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm Cartesian.class
+2003.04.24 18:49 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\Collection.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm Collection.class
+2003.04.24 18:49 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\CoordinateSystem.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm CoordinateSystem.class
+2003.04.24 18:49 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\Geographic.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm Geographic.class
+2003.04.24 18:49 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\PointCollection.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm PointCollection.class
+2003.04.24 18:49 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\Polar.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm Polar.class
+2003.04.24 18:49 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\SGTData.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm SGTData.class
+2003.04.24 18:49 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\SGTGrid.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm SGTGrid.class
+2003.04.24 18:49 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\SGTImage.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm SGTImage.class
+2003.04.24 18:49 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\SGTLine.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm SGTLine.class
+2003.04.24 18:49 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\SGTMetaData.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm SGTMetaData.class
+2003.04.24 18:49 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\SGTPoint.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm SGTPoint.class
+2003.04.24 18:49 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\SGTVector.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm SGTVector.class
+2003.04.24 18:49 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\SimpleGrid.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm SimpleGrid.class
+2003.04.24 18:49 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\SimpleLine.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm SimpleLine.class
+2003.04.24 18:49 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\SimplePoint.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm SimplePoint.class
+2003.04.24 18:49 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\WS_FTP.LOG --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm WS_FTP.LOG
+2003.06.14 12:57 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\CoordinateSystem.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm CoordinateSystem.class
+2003.06.14 12:57 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\Polar.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm Polar.class
+2003.06.14 12:57 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\Cartesian.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm Cartesian.class
+2003.06.14 12:57 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\Geographic.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm Geographic.class
+2003.06.14 12:57 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\SGTImage.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm SGTImage.class
+2003.06.14 12:57 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\SGTPoint.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm SGTPoint.class
+2003.06.14 12:57 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\SGTLine.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm SGTLine.class
+2003.06.14 12:57 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\SGTData.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm SGTData.class
+2003.06.14 12:57 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\SGTGrid.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm SGTGrid.class
+2003.06.14 12:57 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\SGTVector.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm SGTVector.class
+2003.06.14 12:57 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\SGTMetaData.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm SGTMetaData.class
+2003.06.14 12:57 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\PointCollection.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm PointCollection.class
+2003.06.14 12:57 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\Collection.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm Collection.class
+2003.06.14 12:57 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\SimplePoint.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm SimplePoint.class
+2003.06.14 12:57 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\SimpleLine.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm SimpleLine.class
+2003.06.14 12:57 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\SimpleGrid.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm SimpleGrid.class
+2003.06.14 12:57 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\WS_FTP.LOG --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm WS_FTP.LOG
+2003.07.17 11:52 B D:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\WS_FTP.LOG --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm WS_FTP.LOG
+2004.02.01 13:58 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\Cartesian.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm Cartesian.class
+2004.02.01 13:58 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\Collection.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm Collection.class
+2004.02.01 13:58 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\CoordinateSystem.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm CoordinateSystem.class
+2004.02.01 13:58 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\Geographic.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm Geographic.class
+2004.02.01 13:58 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\PointCollection.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm PointCollection.class
+2004.02.01 13:58 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\Polar.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm Polar.class
+2004.02.01 13:58 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\SGTData.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm SGTData.class
+2004.02.01 13:58 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\SGTGrid.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm SGTGrid.class
+2004.02.01 13:58 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\SGTImage.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm SGTImage.class
+2004.02.01 13:58 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\SGTLine.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm SGTLine.class
+2004.02.01 13:58 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\SGTMetaData.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm SGTMetaData.class
+2004.02.01 13:58 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\SGTPoint.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm SGTPoint.class
+2004.02.01 13:58 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\SGTVector.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm SGTVector.class
+2004.02.01 13:58 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\SimpleGrid.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm SimpleGrid.class
+2004.02.01 13:58 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\SimpleLine.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm SimpleLine.class
+2004.02.01 13:58 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\SimplePoint.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm SimplePoint.class
+2004.02.01 13:58 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\WS_FTP.LOG --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm WS_FTP.LOG
+2004.02.01 14:42 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\WS_FTP.LOG --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm WS_FTP.LOG
+2004.02.01 14:58 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\WS_FTP.LOG --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm WS_FTP.LOG
+2004.02.20 23:26 B D:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\Cartesian.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm Cartesian.class
+2004.02.20 23:26 B D:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\Collection.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm Collection.class
+2004.02.20 23:26 B D:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\CoordinateSystem.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm CoordinateSystem.class
+2004.02.20 23:26 B D:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\Geographic.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm Geographic.class
+2004.02.20 23:26 B D:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\PointCollection.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm PointCollection.class
+2004.02.20 23:26 B D:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\Polar.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm Polar.class
+2004.02.20 23:26 B D:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\SGTData.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm SGTData.class
+2004.02.20 23:26 B D:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\SGTGrid.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm SGTGrid.class
+2004.02.20 23:26 B D:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\SGTImage.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm SGTImage.class
+2004.02.20 23:26 B D:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\SGTLine.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm SGTLine.class
+2004.02.20 23:26 B D:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\SGTMetaData.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm SGTMetaData.class
+2004.02.20 23:26 B D:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\SGTPoint.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm SGTPoint.class
+2004.02.20 23:26 B D:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\SGTVector.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm SGTVector.class
+2004.02.20 23:26 B D:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\SimpleGrid.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm SimpleGrid.class
+2004.02.20 23:26 B D:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\SimpleLine.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm SimpleLine.class
+2004.02.20 23:26 B D:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\SimplePoint.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm SimplePoint.class
+2004.02.20 23:26 B D:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\WS_FTP.LOG --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm WS_FTP.LOG
+2004.03.10 00:21 B D:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\WS_FTP.LOG --> 192.168.0.135 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm WS_FTP.LOG
+2004.06.05 03:07 B D:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\WS_FTP.LOG --> 192.168.0.135 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm WS_FTP.LOG
+2004.06.21 02:27 B D:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\WS_FTP.LOG --> 192.168.0.135 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm WS_FTP.LOG
+2004.07.01 02:43 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\WS_FTP.LOG --> 192.168.0.135 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm WS_FTP.LOG
+2004.07.01 02:54 B D:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\WS_FTP.LOG --> 192.168.0.135 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm WS_FTP.LOG
+2004.07.01 09:11 B D:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\WS_FTP.LOG --> 192.168.0.135 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm WS_FTP.LOG
+2004.07.14 04:02 B D:\0ctof3\catalog\average fluxes\gov\noaa\pmel\sgt\dm\WS_FTP.LOG --> 192.168.0.119 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/sgt/dm WS_FTP.LOG

@@ -1,0 +1,436 @@
+2001.12.06 14:59 B D:\0ctof3\gov\noaa\pmel\util\Debug.class --> 192.168.0.157 /dev/0ctof3/gov/noaa/pmel/util Debug.class
+2001.12.06 14:59 B D:\0ctof3\gov\noaa\pmel\util\Dimension2D.class --> 192.168.0.157 /dev/0ctof3/gov/noaa/pmel/util Dimension2D.class
+2001.12.06 14:59 B D:\0ctof3\gov\noaa\pmel\util\Distance.class --> 192.168.0.157 /dev/0ctof3/gov/noaa/pmel/util Distance.class
+2001.12.06 14:59 B D:\0ctof3\gov\noaa\pmel\util\Domain.class --> 192.168.0.157 /dev/0ctof3/gov/noaa/pmel/util Domain.class
+2001.12.06 14:59 B D:\0ctof3\gov\noaa\pmel\util\GeoDate.class --> 192.168.0.157 /dev/0ctof3/gov/noaa/pmel/util GeoDate.class
+2001.12.06 14:59 B D:\0ctof3\gov\noaa\pmel\util\GeographicValue.class --> 192.168.0.157 /dev/0ctof3/gov/noaa/pmel/util GeographicValue.class
+2001.12.06 14:59 B D:\0ctof3\gov\noaa\pmel\util\IllegalTimeValue.class --> 192.168.0.157 /dev/0ctof3/gov/noaa/pmel/util IllegalTimeValue.class
+2001.12.06 14:59 B D:\0ctof3\gov\noaa\pmel\util\Latitude.class --> 192.168.0.157 /dev/0ctof3/gov/noaa/pmel/util Latitude.class
+2001.12.06 14:59 B D:\0ctof3\gov\noaa\pmel\util\Longitude.class --> 192.168.0.157 /dev/0ctof3/gov/noaa/pmel/util Longitude.class
+2001.12.06 14:59 B D:\0ctof3\gov\noaa\pmel\util\Point2D$Double.class --> 192.168.0.157 /dev/0ctof3/gov/noaa/pmel/util Point2D$Double.class
+2001.12.06 14:59 B D:\0ctof3\gov\noaa\pmel\util\Point2D$Float.class --> 192.168.0.157 /dev/0ctof3/gov/noaa/pmel/util Point2D$Float.class
+2001.12.06 14:59 B D:\0ctof3\gov\noaa\pmel\util\Point2D.class --> 192.168.0.157 /dev/0ctof3/gov/noaa/pmel/util Point2D.class
+2001.12.06 14:59 B D:\0ctof3\gov\noaa\pmel\util\Range.class --> 192.168.0.157 /dev/0ctof3/gov/noaa/pmel/util Range.class
+2001.12.06 14:59 B D:\0ctof3\gov\noaa\pmel\util\Range2D.class --> 192.168.0.157 /dev/0ctof3/gov/noaa/pmel/util Range2D.class
+2001.12.06 14:59 B D:\0ctof3\gov\noaa\pmel\util\Rectangle2D$Double.class --> 192.168.0.157 /dev/0ctof3/gov/noaa/pmel/util Rectangle2D$Double.class
+2001.12.06 14:59 B D:\0ctof3\gov\noaa\pmel\util\Rectangle2D.class --> 192.168.0.157 /dev/0ctof3/gov/noaa/pmel/util Rectangle2D.class
+2001.12.06 14:59 B D:\0ctof3\gov\noaa\pmel\util\SoTDomain.class --> 192.168.0.157 /dev/0ctof3/gov/noaa/pmel/util SoTDomain.class
+2001.12.06 14:59 B D:\0ctof3\gov\noaa\pmel\util\SoTPoint.class --> 192.168.0.157 /dev/0ctof3/gov/noaa/pmel/util SoTPoint.class
+2001.12.06 15:00 B D:\0ctof3\gov\noaa\pmel\util\SoTRange$Double.class --> 192.168.0.157 /dev/0ctof3/gov/noaa/pmel/util SoTRange$Double.class
+2001.12.06 15:00 B D:\0ctof3\gov\noaa\pmel\util\SoTRange$GeoDate.class --> 192.168.0.157 /dev/0ctof3/gov/noaa/pmel/util SoTRange$GeoDate.class
+2001.12.06 15:00 B D:\0ctof3\gov\noaa\pmel\util\SoTRange.class --> 192.168.0.157 /dev/0ctof3/gov/noaa/pmel/util SoTRange.class
+2001.12.06 15:00 B D:\0ctof3\gov\noaa\pmel\util\SoTValue$Double.class --> 192.168.0.157 /dev/0ctof3/gov/noaa/pmel/util SoTValue$Double.class
+2001.12.06 15:00 B D:\0ctof3\gov\noaa\pmel\util\SoTValue$GeoDate.class --> 192.168.0.157 /dev/0ctof3/gov/noaa/pmel/util SoTValue$GeoDate.class
+2001.12.06 15:00 B D:\0ctof3\gov\noaa\pmel\util\SoTValue.class --> 192.168.0.157 /dev/0ctof3/gov/noaa/pmel/util SoTValue.class
+2001.12.06 15:00 B D:\0ctof3\gov\noaa\pmel\util\Temperature.class --> 192.168.0.157 /dev/0ctof3/gov/noaa/pmel/util Temperature.class
+2001.12.06 15:00 B D:\0ctof3\gov\noaa\pmel\util\TimePoint.class --> 192.168.0.157 /dev/0ctof3/gov/noaa/pmel/util TimePoint.class
+2001.12.06 15:00 B D:\0ctof3\gov\noaa\pmel\util\TimeRange.class --> 192.168.0.157 /dev/0ctof3/gov/noaa/pmel/util TimeRange.class
+2001.12.06 15:00 B D:\0ctof3\gov\noaa\pmel\util\Units.class --> 192.168.0.157 /dev/0ctof3/gov/noaa/pmel/util Units.class
+2001.12.06 15:00 B D:\0ctof3\gov\noaa\pmel\util\Velocity.class --> 192.168.0.157 /dev/0ctof3/gov/noaa/pmel/util Velocity.class
+2000.02.25 04:40 B D:\0ctof3\gov\noaa\pmel\util\Debug.class --> 192.168.0.193 \0ctof3\gov\noaa\pmel\util Debug.class
+2000.02.25 04:40 B D:\0ctof3\gov\noaa\pmel\util\Dimension2D.class --> 192.168.0.193 \0ctof3\gov\noaa\pmel\util Dimension2D.class
+2000.02.25 04:40 B D:\0ctof3\gov\noaa\pmel\util\Distance.class --> 192.168.0.193 \0ctof3\gov\noaa\pmel\util Distance.class
+2000.02.25 04:40 B D:\0ctof3\gov\noaa\pmel\util\Domain.class --> 192.168.0.193 \0ctof3\gov\noaa\pmel\util Domain.class
+2000.02.25 04:40 B D:\0ctof3\gov\noaa\pmel\util\GeoDate.class --> 192.168.0.193 \0ctof3\gov\noaa\pmel\util GeoDate.class
+2000.02.25 04:40 B D:\0ctof3\gov\noaa\pmel\util\GeographicValue.class --> 192.168.0.193 \0ctof3\gov\noaa\pmel\util GeographicValue.class
+2000.02.25 04:40 B D:\0ctof3\gov\noaa\pmel\util\IllegalTimeValue.class --> 192.168.0.193 \0ctof3\gov\noaa\pmel\util IllegalTimeValue.class
+2000.02.25 04:40 B D:\0ctof3\gov\noaa\pmel\util\Latitude.class --> 192.168.0.193 \0ctof3\gov\noaa\pmel\util Latitude.class
+2000.02.25 04:40 B D:\0ctof3\gov\noaa\pmel\util\Longitude.class --> 192.168.0.193 \0ctof3\gov\noaa\pmel\util Longitude.class
+2000.02.25 04:40 B D:\0ctof3\gov\noaa\pmel\util\Point2D$Double.class --> 192.168.0.193 \0ctof3\gov\noaa\pmel\util Point2D$Double.class
+2000.02.25 04:40 B D:\0ctof3\gov\noaa\pmel\util\Point2D$Float.class --> 192.168.0.193 \0ctof3\gov\noaa\pmel\util Point2D$Float.class
+2000.02.25 04:40 B D:\0ctof3\gov\noaa\pmel\util\Point2D.class --> 192.168.0.193 \0ctof3\gov\noaa\pmel\util Point2D.class
+2000.02.25 04:40 B D:\0ctof3\gov\noaa\pmel\util\Range.class --> 192.168.0.193 \0ctof3\gov\noaa\pmel\util Range.class
+2000.02.25 04:40 B D:\0ctof3\gov\noaa\pmel\util\Range2D.class --> 192.168.0.193 \0ctof3\gov\noaa\pmel\util Range2D.class
+2000.02.25 04:40 B D:\0ctof3\gov\noaa\pmel\util\Rectangle2D$Double.class --> 192.168.0.193 \0ctof3\gov\noaa\pmel\util Rectangle2D$Double.class
+2000.02.25 04:40 B D:\0ctof3\gov\noaa\pmel\util\Rectangle2D.class --> 192.168.0.193 \0ctof3\gov\noaa\pmel\util Rectangle2D.class
+2000.02.25 04:40 B D:\0ctof3\gov\noaa\pmel\util\SoTDomain.class --> 192.168.0.193 \0ctof3\gov\noaa\pmel\util SoTDomain.class
+2000.02.25 04:40 B D:\0ctof3\gov\noaa\pmel\util\SoTPoint.class --> 192.168.0.193 \0ctof3\gov\noaa\pmel\util SoTPoint.class
+2000.02.25 04:40 B D:\0ctof3\gov\noaa\pmel\util\SoTRange$Double.class --> 192.168.0.193 \0ctof3\gov\noaa\pmel\util SoTRange$Double.class
+2000.02.25 04:40 B D:\0ctof3\gov\noaa\pmel\util\SoTRange$GeoDate.class --> 192.168.0.193 \0ctof3\gov\noaa\pmel\util SoTRange$GeoDate.class
+2000.02.25 04:40 B D:\0ctof3\gov\noaa\pmel\util\SoTRange.class --> 192.168.0.193 \0ctof3\gov\noaa\pmel\util SoTRange.class
+2000.02.25 04:40 B D:\0ctof3\gov\noaa\pmel\util\SoTValue$Double.class --> 192.168.0.193 \0ctof3\gov\noaa\pmel\util SoTValue$Double.class
+2000.02.25 04:41 B D:\0ctof3\gov\noaa\pmel\util\SoTValue$GeoDate.class --> 192.168.0.193 \0ctof3\gov\noaa\pmel\util SoTValue$GeoDate.class
+2000.02.25 04:41 B D:\0ctof3\gov\noaa\pmel\util\SoTValue.class --> 192.168.0.193 \0ctof3\gov\noaa\pmel\util SoTValue.class
+2000.02.25 04:41 B D:\0ctof3\gov\noaa\pmel\util\Temperature.class --> 192.168.0.193 \0ctof3\gov\noaa\pmel\util Temperature.class
+2000.02.25 04:41 B D:\0ctof3\gov\noaa\pmel\util\TimePoint.class --> 192.168.0.193 \0ctof3\gov\noaa\pmel\util TimePoint.class
+2000.02.25 04:41 B D:\0ctof3\gov\noaa\pmel\util\TimeRange.class --> 192.168.0.193 \0ctof3\gov\noaa\pmel\util TimeRange.class
+2000.02.25 04:41 B D:\0ctof3\gov\noaa\pmel\util\Units.class --> 192.168.0.193 \0ctof3\gov\noaa\pmel\util Units.class
+2000.02.25 04:41 B D:\0ctof3\gov\noaa\pmel\util\Velocity.class --> 192.168.0.193 \0ctof3\gov\noaa\pmel\util Velocity.class
+2002.04.08 02:57 B C:\0ctof3\gov\noaa\pmel\util\Debug.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util Debug.class
+2002.04.08 02:57 B C:\0ctof3\gov\noaa\pmel\util\Dimension2D.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util Dimension2D.class
+2002.04.08 02:57 B C:\0ctof3\gov\noaa\pmel\util\Distance.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util Distance.class
+2002.04.08 02:57 B C:\0ctof3\gov\noaa\pmel\util\Domain.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util Domain.class
+2002.04.08 02:57 B C:\0ctof3\gov\noaa\pmel\util\GeoDate.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util GeoDate.class
+2002.04.08 02:57 B C:\0ctof3\gov\noaa\pmel\util\GeographicValue.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util GeographicValue.class
+2002.04.08 02:57 B C:\0ctof3\gov\noaa\pmel\util\IllegalTimeValue.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util IllegalTimeValue.class
+2002.04.08 02:57 B C:\0ctof3\gov\noaa\pmel\util\Latitude.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util Latitude.class
+2002.04.08 02:57 B C:\0ctof3\gov\noaa\pmel\util\Longitude.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util Longitude.class
+2002.04.08 02:57 B C:\0ctof3\gov\noaa\pmel\util\Point2D$Double.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util Point2D$Double.class
+2002.04.08 02:57 B C:\0ctof3\gov\noaa\pmel\util\Point2D$Float.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util Point2D$Float.class
+2002.04.08 02:57 B C:\0ctof3\gov\noaa\pmel\util\Point2D.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util Point2D.class
+2002.04.08 02:57 B C:\0ctof3\gov\noaa\pmel\util\Range.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util Range.class
+2002.04.08 02:57 B C:\0ctof3\gov\noaa\pmel\util\Range2D.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util Range2D.class
+2002.04.08 02:57 B C:\0ctof3\gov\noaa\pmel\util\Rectangle2D$Double.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util Rectangle2D$Double.class
+2002.04.08 02:57 B C:\0ctof3\gov\noaa\pmel\util\Rectangle2D.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util Rectangle2D.class
+2002.04.08 02:57 B C:\0ctof3\gov\noaa\pmel\util\SoTDomain.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util SoTDomain.class
+2002.04.08 02:57 B C:\0ctof3\gov\noaa\pmel\util\SoTPoint.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util SoTPoint.class
+2002.04.08 02:57 B C:\0ctof3\gov\noaa\pmel\util\SoTRange$Double.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util SoTRange$Double.class
+2002.04.08 02:57 B C:\0ctof3\gov\noaa\pmel\util\SoTRange$GeoDate.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util SoTRange$GeoDate.class
+2002.04.08 02:57 B C:\0ctof3\gov\noaa\pmel\util\SoTRange.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util SoTRange.class
+2002.04.08 02:57 B C:\0ctof3\gov\noaa\pmel\util\SoTValue$Double.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util SoTValue$Double.class
+2002.04.08 02:57 B C:\0ctof3\gov\noaa\pmel\util\SoTValue$GeoDate.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util SoTValue$GeoDate.class
+2002.04.08 02:57 B C:\0ctof3\gov\noaa\pmel\util\SoTValue.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util SoTValue.class
+2002.04.08 02:57 B C:\0ctof3\gov\noaa\pmel\util\Temperature.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util Temperature.class
+2002.04.08 02:57 B C:\0ctof3\gov\noaa\pmel\util\TimePoint.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util TimePoint.class
+2002.04.08 02:57 B C:\0ctof3\gov\noaa\pmel\util\TimeRange.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util TimeRange.class
+2002.04.08 02:57 B C:\0ctof3\gov\noaa\pmel\util\Units.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util Units.class
+2002.04.08 02:57 B C:\0ctof3\gov\noaa\pmel\util\Velocity.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util Velocity.class
+2002.04.08 02:57 B C:\0ctof3\gov\noaa\pmel\util\WS_FTP.LOG --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util WS_FTP.LOG
+2002.04.21 10:03 B C:\0ctof3\gov\noaa\pmel\util\Debug.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util Debug.class
+2002.04.21 10:03 B C:\0ctof3\gov\noaa\pmel\util\Dimension2D.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util Dimension2D.class
+2002.04.21 10:03 B C:\0ctof3\gov\noaa\pmel\util\Distance.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util Distance.class
+2002.04.21 10:03 B C:\0ctof3\gov\noaa\pmel\util\Domain.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util Domain.class
+2002.04.21 10:03 B C:\0ctof3\gov\noaa\pmel\util\GeoDate.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util GeoDate.class
+2002.04.21 10:03 B C:\0ctof3\gov\noaa\pmel\util\GeographicValue.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util GeographicValue.class
+2002.04.21 10:03 B C:\0ctof3\gov\noaa\pmel\util\IllegalTimeValue.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util IllegalTimeValue.class
+2002.04.21 10:03 B C:\0ctof3\gov\noaa\pmel\util\Latitude.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util Latitude.class
+2002.04.21 10:03 B C:\0ctof3\gov\noaa\pmel\util\Longitude.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util Longitude.class
+2002.04.21 10:03 B C:\0ctof3\gov\noaa\pmel\util\Point2D$Double.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util Point2D$Double.class
+2002.04.21 10:03 B C:\0ctof3\gov\noaa\pmel\util\Point2D$Float.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util Point2D$Float.class
+2002.04.21 10:03 B C:\0ctof3\gov\noaa\pmel\util\Point2D.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util Point2D.class
+2002.04.21 10:03 B C:\0ctof3\gov\noaa\pmel\util\Range.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util Range.class
+2002.04.21 10:03 B C:\0ctof3\gov\noaa\pmel\util\Range2D.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util Range2D.class
+2002.04.21 10:03 B C:\0ctof3\gov\noaa\pmel\util\Rectangle2D$Double.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util Rectangle2D$Double.class
+2002.04.21 10:03 B C:\0ctof3\gov\noaa\pmel\util\Rectangle2D.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util Rectangle2D.class
+2002.04.21 10:03 B C:\0ctof3\gov\noaa\pmel\util\SoTDomain.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util SoTDomain.class
+2002.04.21 10:03 B C:\0ctof3\gov\noaa\pmel\util\SoTPoint.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util SoTPoint.class
+2002.04.21 10:03 B C:\0ctof3\gov\noaa\pmel\util\SoTRange$Double.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util SoTRange$Double.class
+2002.04.21 10:03 B C:\0ctof3\gov\noaa\pmel\util\SoTRange$GeoDate.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util SoTRange$GeoDate.class
+2002.04.21 10:03 B C:\0ctof3\gov\noaa\pmel\util\SoTRange.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util SoTRange.class
+2002.04.21 10:03 B C:\0ctof3\gov\noaa\pmel\util\SoTValue$Double.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util SoTValue$Double.class
+2002.04.21 10:03 B C:\0ctof3\gov\noaa\pmel\util\SoTValue$GeoDate.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util SoTValue$GeoDate.class
+2002.04.21 10:03 B C:\0ctof3\gov\noaa\pmel\util\SoTValue.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util SoTValue.class
+2002.04.21 10:03 B C:\0ctof3\gov\noaa\pmel\util\Temperature.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util Temperature.class
+2002.04.21 10:03 B C:\0ctof3\gov\noaa\pmel\util\TimePoint.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util TimePoint.class
+2002.04.21 10:03 B C:\0ctof3\gov\noaa\pmel\util\TimeRange.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util TimeRange.class
+2002.04.21 10:03 B C:\0ctof3\gov\noaa\pmel\util\Units.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util Units.class
+2002.04.21 10:03 B C:\0ctof3\gov\noaa\pmel\util\Velocity.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util Velocity.class
+2002.04.21 10:03 B C:\0ctof3\gov\noaa\pmel\util\WS_FTP.LOG --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util WS_FTP.LOG
+2002.05.02 14:05 B C:\0ctof3\gov\noaa\pmel\util\Debug.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/gov/noaa/pmel/util Debug.class
+2002.05.02 14:05 B C:\0ctof3\gov\noaa\pmel\util\Dimension2D.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/gov/noaa/pmel/util Dimension2D.class
+2002.05.02 14:05 B C:\0ctof3\gov\noaa\pmel\util\Distance.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/gov/noaa/pmel/util Distance.class
+2002.05.02 14:05 B C:\0ctof3\gov\noaa\pmel\util\Domain.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/gov/noaa/pmel/util Domain.class
+2002.05.02 14:05 B C:\0ctof3\gov\noaa\pmel\util\GeoDate.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/gov/noaa/pmel/util GeoDate.class
+2002.05.02 14:05 B C:\0ctof3\gov\noaa\pmel\util\GeographicValue.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/gov/noaa/pmel/util GeographicValue.class
+2002.05.02 14:05 B C:\0ctof3\gov\noaa\pmel\util\IllegalTimeValue.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/gov/noaa/pmel/util IllegalTimeValue.class
+2002.05.02 14:05 B C:\0ctof3\gov\noaa\pmel\util\Latitude.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/gov/noaa/pmel/util Latitude.class
+2002.05.02 14:05 B C:\0ctof3\gov\noaa\pmel\util\Longitude.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/gov/noaa/pmel/util Longitude.class
+2002.05.02 14:05 B C:\0ctof3\gov\noaa\pmel\util\Point2D$Double.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/gov/noaa/pmel/util Point2D$Double.class
+2002.05.02 14:05 B C:\0ctof3\gov\noaa\pmel\util\Point2D$Float.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/gov/noaa/pmel/util Point2D$Float.class
+2002.05.02 14:05 B C:\0ctof3\gov\noaa\pmel\util\Point2D.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/gov/noaa/pmel/util Point2D.class
+2002.05.02 14:05 B C:\0ctof3\gov\noaa\pmel\util\Range.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/gov/noaa/pmel/util Range.class
+2002.05.02 14:05 B C:\0ctof3\gov\noaa\pmel\util\Range2D.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/gov/noaa/pmel/util Range2D.class
+2002.05.02 14:05 B C:\0ctof3\gov\noaa\pmel\util\Rectangle2D$Double.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/gov/noaa/pmel/util Rectangle2D$Double.class
+2002.05.02 14:05 B C:\0ctof3\gov\noaa\pmel\util\Rectangle2D.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/gov/noaa/pmel/util Rectangle2D.class
+2002.05.02 14:05 B C:\0ctof3\gov\noaa\pmel\util\SoTDomain.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/gov/noaa/pmel/util SoTDomain.class
+2002.05.02 14:05 B C:\0ctof3\gov\noaa\pmel\util\SoTPoint.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/gov/noaa/pmel/util SoTPoint.class
+2002.05.02 14:05 B C:\0ctof3\gov\noaa\pmel\util\SoTRange$Double.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/gov/noaa/pmel/util SoTRange$Double.class
+2002.05.02 14:05 B C:\0ctof3\gov\noaa\pmel\util\SoTRange$GeoDate.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/gov/noaa/pmel/util SoTRange$GeoDate.class
+2002.05.02 14:05 B C:\0ctof3\gov\noaa\pmel\util\SoTRange.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/gov/noaa/pmel/util SoTRange.class
+2002.05.02 14:05 B C:\0ctof3\gov\noaa\pmel\util\SoTValue$Double.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/gov/noaa/pmel/util SoTValue$Double.class
+2002.05.02 14:05 B C:\0ctof3\gov\noaa\pmel\util\SoTValue$GeoDate.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/gov/noaa/pmel/util SoTValue$GeoDate.class
+2002.05.02 14:05 B C:\0ctof3\gov\noaa\pmel\util\SoTValue.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/gov/noaa/pmel/util SoTValue.class
+2002.05.02 14:05 B C:\0ctof3\gov\noaa\pmel\util\Temperature.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/gov/noaa/pmel/util Temperature.class
+2002.05.02 14:05 B C:\0ctof3\gov\noaa\pmel\util\TimePoint.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/gov/noaa/pmel/util TimePoint.class
+2002.05.02 14:05 B C:\0ctof3\gov\noaa\pmel\util\TimeRange.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/gov/noaa/pmel/util TimeRange.class
+2002.05.02 14:05 B C:\0ctof3\gov\noaa\pmel\util\Units.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/gov/noaa/pmel/util Units.class
+2002.05.02 14:05 B C:\0ctof3\gov\noaa\pmel\util\Velocity.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/gov/noaa/pmel/util Velocity.class
+2002.05.02 14:05 B C:\0ctof3\gov\noaa\pmel\util\WS_FTP.LOG --> atlas.sr.unh.edu /home/lsaul/0ctof3/gov/noaa/pmel/util WS_FTP.LOG
+2002.05.05 02:39 B C:\0ctof3\gov\noaa\pmel\util\Debug.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util Debug.class
+2002.05.05 02:39 B C:\0ctof3\gov\noaa\pmel\util\Dimension2D.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util Dimension2D.class
+2002.05.05 02:39 B C:\0ctof3\gov\noaa\pmel\util\Distance.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util Distance.class
+2002.05.05 02:39 B C:\0ctof3\gov\noaa\pmel\util\Domain.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util Domain.class
+2002.05.05 02:39 B C:\0ctof3\gov\noaa\pmel\util\GeoDate.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util GeoDate.class
+2002.05.05 02:39 B C:\0ctof3\gov\noaa\pmel\util\GeographicValue.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util GeographicValue.class
+2002.05.05 02:39 B C:\0ctof3\gov\noaa\pmel\util\IllegalTimeValue.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util IllegalTimeValue.class
+2002.05.05 02:39 B C:\0ctof3\gov\noaa\pmel\util\Latitude.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util Latitude.class
+2002.05.05 02:39 B C:\0ctof3\gov\noaa\pmel\util\Longitude.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util Longitude.class
+2002.05.05 02:39 B C:\0ctof3\gov\noaa\pmel\util\Point2D$Double.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util Point2D$Double.class
+2002.05.05 02:39 B C:\0ctof3\gov\noaa\pmel\util\Point2D$Float.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util Point2D$Float.class
+2002.05.05 02:39 B C:\0ctof3\gov\noaa\pmel\util\Point2D.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util Point2D.class
+2002.05.05 02:39 B C:\0ctof3\gov\noaa\pmel\util\Range.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util Range.class
+2002.05.05 02:39 B C:\0ctof3\gov\noaa\pmel\util\Range2D.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util Range2D.class
+2002.05.05 02:39 B C:\0ctof3\gov\noaa\pmel\util\Rectangle2D$Double.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util Rectangle2D$Double.class
+2002.05.05 02:39 B C:\0ctof3\gov\noaa\pmel\util\Rectangle2D.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util Rectangle2D.class
+2002.05.05 02:39 B C:\0ctof3\gov\noaa\pmel\util\SoTDomain.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util SoTDomain.class
+2002.05.05 02:39 B C:\0ctof3\gov\noaa\pmel\util\SoTPoint.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util SoTPoint.class
+2002.05.05 02:39 B C:\0ctof3\gov\noaa\pmel\util\SoTRange$Double.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util SoTRange$Double.class
+2002.05.05 02:39 B C:\0ctof3\gov\noaa\pmel\util\SoTRange$GeoDate.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util SoTRange$GeoDate.class
+2002.05.05 02:39 B C:\0ctof3\gov\noaa\pmel\util\SoTRange.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util SoTRange.class
+2002.05.05 02:39 B C:\0ctof3\gov\noaa\pmel\util\SoTValue$Double.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util SoTValue$Double.class
+2002.05.05 02:39 B C:\0ctof3\gov\noaa\pmel\util\SoTValue$GeoDate.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util SoTValue$GeoDate.class
+2002.05.05 02:39 B C:\0ctof3\gov\noaa\pmel\util\SoTValue.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util SoTValue.class
+2002.05.05 02:39 B C:\0ctof3\gov\noaa\pmel\util\Temperature.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util Temperature.class
+2002.05.05 02:39 B C:\0ctof3\gov\noaa\pmel\util\TimePoint.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util TimePoint.class
+2002.05.05 02:39 B C:\0ctof3\gov\noaa\pmel\util\TimeRange.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util TimeRange.class
+2002.05.05 02:39 B C:\0ctof3\gov\noaa\pmel\util\Units.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util Units.class
+2002.05.05 02:39 B C:\0ctof3\gov\noaa\pmel\util\Velocity.class --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util Velocity.class
+2002.05.05 02:39 B C:\0ctof3\gov\noaa\pmel\util\WS_FTP.LOG --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util WS_FTP.LOG
+2002.05.22 15:33 B C:\0ctof3\gov\noaa\pmel\util\WS_FTP.LOG --> atlas.sr.unh.edu /home/lsaul/0ctof3/gov/noaa/pmel/util WS_FTP.LOG
+2002.05.26 00:35 B C:\0ctof3\gov\noaa\pmel\util\WS_FTP.LOG --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util WS_FTP.LOG
+2002.06.12 14:25 B C:\0ctof3\gov\noaa\pmel\util\WS_FTP.LOG --> 192.168.0.126 /backup/0ctof3/gov/noaa/pmel/util WS_FTP.LOG
+2002.07.13 14:36 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\Debug.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/util Debug.class
+2002.07.13 14:36 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\Dimension2D.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/util Dimension2D.class
+2002.07.13 14:36 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\Distance.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/util Distance.class
+2002.07.13 14:36 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\Domain.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/util Domain.class
+2002.07.13 14:36 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\GeoDate.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/util GeoDate.class
+2002.07.13 14:36 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\GeographicValue.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/util GeographicValue.class
+2002.07.13 14:36 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\IllegalTimeValue.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/util IllegalTimeValue.class
+2002.07.13 14:36 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\Latitude.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/util Latitude.class
+2002.07.13 14:36 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\Longitude.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/util Longitude.class
+2002.07.13 14:36 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\Point2D$Double.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/util Point2D$Double.class
+2002.07.13 14:36 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\Point2D$Float.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/util Point2D$Float.class
+2002.07.13 14:36 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\Point2D.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/util Point2D.class
+2002.07.13 14:36 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\Range.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/util Range.class
+2002.07.13 14:36 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\Range2D.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/util Range2D.class
+2002.07.13 14:36 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\Rectangle2D$Double.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/util Rectangle2D$Double.class
+2002.07.13 14:36 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\Rectangle2D.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/util Rectangle2D.class
+2002.07.13 14:36 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\SoTDomain.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/util SoTDomain.class
+2002.07.13 14:36 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\SoTPoint.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/util SoTPoint.class
+2002.07.13 14:36 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\SoTRange$Double.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/util SoTRange$Double.class
+2002.07.13 14:36 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\SoTRange$GeoDate.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/util SoTRange$GeoDate.class
+2002.07.13 14:36 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\SoTRange.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/util SoTRange.class
+2002.07.13 14:36 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\SoTValue$Double.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/util SoTValue$Double.class
+2002.07.13 14:36 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\SoTValue$GeoDate.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/util SoTValue$GeoDate.class
+2002.07.13 14:36 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\SoTValue.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/util SoTValue.class
+2002.07.13 14:36 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\Temperature.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/util Temperature.class
+2002.07.13 14:36 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\TimePoint.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/util TimePoint.class
+2002.07.13 14:36 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\TimeRange.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/util TimeRange.class
+2002.07.13 14:36 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\Units.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/util Units.class
+2002.07.13 14:36 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\Velocity.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/util Velocity.class
+2002.07.13 14:36 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\WS_FTP.LOG --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/util WS_FTP.LOG
+2002.07.26 11:42 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\Debug.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/util Debug.class
+2002.07.26 11:42 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\Dimension2D.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/util Dimension2D.class
+2002.07.26 11:42 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\Distance.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/util Distance.class
+2002.07.26 11:42 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\Domain.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/util Domain.class
+2002.07.26 11:42 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\GeoDate.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/util GeoDate.class
+2002.07.26 11:42 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\GeographicValue.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/util GeographicValue.class
+2002.07.26 11:42 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\IllegalTimeValue.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/util IllegalTimeValue.class
+2002.07.26 11:42 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\Latitude.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/util Latitude.class
+2002.07.26 11:42 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\Longitude.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/util Longitude.class
+2002.07.26 11:42 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\Point2D$Double.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/util Point2D$Double.class
+2002.07.26 11:42 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\Point2D$Float.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/util Point2D$Float.class
+2002.07.26 11:42 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\Point2D.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/util Point2D.class
+2002.07.26 11:42 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\Range.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/util Range.class
+2002.07.26 11:42 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\Range2D.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/util Range2D.class
+2002.07.26 11:42 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\Rectangle2D$Double.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/util Rectangle2D$Double.class
+2002.07.26 11:42 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\Rectangle2D.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/util Rectangle2D.class
+2002.07.26 11:42 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\SoTDomain.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/util SoTDomain.class
+2002.07.26 11:42 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\SoTPoint.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/util SoTPoint.class
+2002.07.26 11:42 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\SoTRange$Double.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/util SoTRange$Double.class
+2002.07.26 11:42 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\SoTRange$GeoDate.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/util SoTRange$GeoDate.class
+2002.07.26 11:43 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\SoTRange.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/util SoTRange.class
+2002.07.26 11:43 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\SoTValue$Double.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/util SoTValue$Double.class
+2002.07.26 11:43 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\SoTValue$GeoDate.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/util SoTValue$GeoDate.class
+2002.07.26 11:43 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\SoTValue.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/util SoTValue.class
+2002.07.26 11:43 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\Temperature.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/util Temperature.class
+2002.07.26 11:43 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\TimePoint.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/util TimePoint.class
+2002.07.26 11:43 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\TimeRange.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/util TimeRange.class
+2002.07.26 11:43 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\Units.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/util Units.class
+2002.07.26 11:43 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\Velocity.class --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/util Velocity.class
+2002.07.26 11:43 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\WS_FTP.LOG --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/util WS_FTP.LOG
+2002.07.26 12:00 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\WS_FTP.LOG --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/util WS_FTP.LOG
+2002.08.14 17:49 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\Debug.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/average fluxes/gov/noaa/pmel/util Debug.class
+2002.08.14 17:49 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\Dimension2D.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/average fluxes/gov/noaa/pmel/util Dimension2D.class
+2002.08.14 17:49 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\Distance.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/average fluxes/gov/noaa/pmel/util Distance.class
+2002.08.14 17:49 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\Domain.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/average fluxes/gov/noaa/pmel/util Domain.class
+2002.08.14 17:49 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\GeoDate.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/average fluxes/gov/noaa/pmel/util GeoDate.class
+2002.08.14 17:49 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\GeographicValue.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/average fluxes/gov/noaa/pmel/util GeographicValue.class
+2002.08.14 17:49 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\IllegalTimeValue.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/average fluxes/gov/noaa/pmel/util IllegalTimeValue.class
+2002.08.14 17:49 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\Latitude.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/average fluxes/gov/noaa/pmel/util Latitude.class
+2002.08.14 17:49 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\Longitude.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/average fluxes/gov/noaa/pmel/util Longitude.class
+2002.08.14 17:49 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\Point2D$Double.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/average fluxes/gov/noaa/pmel/util Point2D$Double.class
+2002.08.14 17:49 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\Point2D$Float.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/average fluxes/gov/noaa/pmel/util Point2D$Float.class
+2002.08.14 17:49 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\Point2D.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/average fluxes/gov/noaa/pmel/util Point2D.class
+2002.08.14 17:49 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\Range.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/average fluxes/gov/noaa/pmel/util Range.class
+2002.08.14 17:49 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\Range2D.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/average fluxes/gov/noaa/pmel/util Range2D.class
+2002.08.14 17:49 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\Rectangle2D$Double.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/average fluxes/gov/noaa/pmel/util Rectangle2D$Double.class
+2002.08.14 17:49 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\Rectangle2D.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/average fluxes/gov/noaa/pmel/util Rectangle2D.class
+2002.08.14 17:49 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\SoTDomain.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/average fluxes/gov/noaa/pmel/util SoTDomain.class
+2002.08.14 17:49 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\SoTPoint.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/average fluxes/gov/noaa/pmel/util SoTPoint.class
+2002.08.14 17:49 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\SoTRange$Double.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/average fluxes/gov/noaa/pmel/util SoTRange$Double.class
+2002.08.14 17:49 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\SoTRange$GeoDate.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/average fluxes/gov/noaa/pmel/util SoTRange$GeoDate.class
+2002.08.14 17:49 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\SoTRange.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/average fluxes/gov/noaa/pmel/util SoTRange.class
+2002.08.14 17:49 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\SoTValue$Double.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/average fluxes/gov/noaa/pmel/util SoTValue$Double.class
+2002.08.14 17:49 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\SoTValue$GeoDate.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/average fluxes/gov/noaa/pmel/util SoTValue$GeoDate.class
+2002.08.14 17:49 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\SoTValue.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/average fluxes/gov/noaa/pmel/util SoTValue.class
+2002.08.14 17:49 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\Temperature.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/average fluxes/gov/noaa/pmel/util Temperature.class
+2002.08.14 17:49 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\TimePoint.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/average fluxes/gov/noaa/pmel/util TimePoint.class
+2002.08.14 17:49 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\TimeRange.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/average fluxes/gov/noaa/pmel/util TimeRange.class
+2002.08.14 17:49 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\Units.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/average fluxes/gov/noaa/pmel/util Units.class
+2002.08.14 17:49 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\Velocity.class --> atlas.sr.unh.edu /home/lsaul/0ctof3/average fluxes/gov/noaa/pmel/util Velocity.class
+2002.08.14 17:49 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\WS_FTP.LOG --> atlas.sr.unh.edu /home/lsaul/0ctof3/average fluxes/gov/noaa/pmel/util WS_FTP.LOG
+2002.08.15 10:46 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\WS_FTP.LOG --> atlas.sr.unh.edu /home/lsaul/0ctof3/average fluxes/gov/noaa/pmel/util WS_FTP.LOG
+2002.08.15 11:39 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\WS_FTP.LOG --> atlas.sr.unh.edu /home/lsaul/0ctof3/average fluxes/gov/noaa/pmel/util WS_FTP.LOG
+2002.08.18 12:34 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\WS_FTP.LOG --> 192.168.0.126 /backup/0ctof3/average fluxes/gov/noaa/pmel/util WS_FTP.LOG
+2000.09.06 00:11 B C:\0ctof3\average fluxes\gov\noaa\pmel\util\WS_FTP.LOG <-- 17 stratham lane /backup/0ctof3/average fluxes/gov/noaa/pmel/util WS_FTP.LOG
+2003.02.19 00:46 B D:\0ctof3\average fluxes\gov\noaa\pmel\util\Debug.class --> 192.168.0.126 /backup/average fluxes/gov/noaa/pmel/util Debug.class
+2003.02.19 00:46 B D:\0ctof3\average fluxes\gov\noaa\pmel\util\Dimension2D.class --> 192.168.0.126 /backup/average fluxes/gov/noaa/pmel/util Dimension2D.class
+2003.02.19 00:46 B D:\0ctof3\average fluxes\gov\noaa\pmel\util\Distance.class --> 192.168.0.126 /backup/average fluxes/gov/noaa/pmel/util Distance.class
+2003.02.19 00:46 B D:\0ctof3\average fluxes\gov\noaa\pmel\util\Domain.class --> 192.168.0.126 /backup/average fluxes/gov/noaa/pmel/util Domain.class
+2003.02.19 00:46 B D:\0ctof3\average fluxes\gov\noaa\pmel\util\GeoDate.class --> 192.168.0.126 /backup/average fluxes/gov/noaa/pmel/util GeoDate.class
+2003.02.19 00:46 B D:\0ctof3\average fluxes\gov\noaa\pmel\util\GeographicValue.class --> 192.168.0.126 /backup/average fluxes/gov/noaa/pmel/util GeographicValue.class
+2003.02.19 00:46 B D:\0ctof3\average fluxes\gov\noaa\pmel\util\IllegalTimeValue.class --> 192.168.0.126 /backup/average fluxes/gov/noaa/pmel/util IllegalTimeValue.class
+2003.02.19 00:46 B D:\0ctof3\average fluxes\gov\noaa\pmel\util\Latitude.class --> 192.168.0.126 /backup/average fluxes/gov/noaa/pmel/util Latitude.class
+2003.02.19 00:46 B D:\0ctof3\average fluxes\gov\noaa\pmel\util\Longitude.class --> 192.168.0.126 /backup/average fluxes/gov/noaa/pmel/util Longitude.class
+2003.02.19 00:46 B D:\0ctof3\average fluxes\gov\noaa\pmel\util\Point2D$Double.class --> 192.168.0.126 /backup/average fluxes/gov/noaa/pmel/util Point2D$Double.class
+2003.02.19 00:46 B D:\0ctof3\average fluxes\gov\noaa\pmel\util\Point2D$Float.class --> 192.168.0.126 /backup/average fluxes/gov/noaa/pmel/util Point2D$Float.class
+2003.02.19 00:46 B D:\0ctof3\average fluxes\gov\noaa\pmel\util\Point2D.class --> 192.168.0.126 /backup/average fluxes/gov/noaa/pmel/util Point2D.class
+2003.02.19 00:46 B D:\0ctof3\average fluxes\gov\noaa\pmel\util\Range.class --> 192.168.0.126 /backup/average fluxes/gov/noaa/pmel/util Range.class
+2003.02.19 00:46 B D:\0ctof3\average fluxes\gov\noaa\pmel\util\Range2D.class --> 192.168.0.126 /backup/average fluxes/gov/noaa/pmel/util Range2D.class
+2003.02.19 00:46 B D:\0ctof3\average fluxes\gov\noaa\pmel\util\Rectangle2D$Double.class --> 192.168.0.126 /backup/average fluxes/gov/noaa/pmel/util Rectangle2D$Double.class
+2003.02.19 00:46 B D:\0ctof3\average fluxes\gov\noaa\pmel\util\Rectangle2D.class --> 192.168.0.126 /backup/average fluxes/gov/noaa/pmel/util Rectangle2D.class
+2003.02.19 00:46 B D:\0ctof3\average fluxes\gov\noaa\pmel\util\SoTDomain.class --> 192.168.0.126 /backup/average fluxes/gov/noaa/pmel/util SoTDomain.class
+2003.02.19 00:46 B D:\0ctof3\average fluxes\gov\noaa\pmel\util\SoTPoint.class --> 192.168.0.126 /backup/average fluxes/gov/noaa/pmel/util SoTPoint.class
+2003.02.19 00:46 B D:\0ctof3\average fluxes\gov\noaa\pmel\util\SoTRange$Double.class --> 192.168.0.126 /backup/average fluxes/gov/noaa/pmel/util SoTRange$Double.class
+2003.02.19 00:46 B D:\0ctof3\average fluxes\gov\noaa\pmel\util\SoTRange$GeoDate.class --> 192.168.0.126 /backup/average fluxes/gov/noaa/pmel/util SoTRange$GeoDate.class
+2003.02.19 00:46 B D:\0ctof3\average fluxes\gov\noaa\pmel\util\SoTRange.class --> 192.168.0.126 /backup/average fluxes/gov/noaa/pmel/util SoTRange.class
+2003.02.19 00:46 B D:\0ctof3\average fluxes\gov\noaa\pmel\util\SoTValue$Double.class --> 192.168.0.126 /backup/average fluxes/gov/noaa/pmel/util SoTValue$Double.class
+2003.02.19 00:46 B D:\0ctof3\average fluxes\gov\noaa\pmel\util\SoTValue$GeoDate.class --> 192.168.0.126 /backup/average fluxes/gov/noaa/pmel/util SoTValue$GeoDate.class
+2003.02.19 00:46 B D:\0ctof3\average fluxes\gov\noaa\pmel\util\SoTValue.class --> 192.168.0.126 /backup/average fluxes/gov/noaa/pmel/util SoTValue.class
+2003.02.19 00:46 B D:\0ctof3\average fluxes\gov\noaa\pmel\util\Temperature.class --> 192.168.0.126 /backup/average fluxes/gov/noaa/pmel/util Temperature.class
+2003.02.19 00:46 B D:\0ctof3\average fluxes\gov\noaa\pmel\util\TimePoint.class --> 192.168.0.126 /backup/average fluxes/gov/noaa/pmel/util TimePoint.class
+2003.02.19 00:46 B D:\0ctof3\average fluxes\gov\noaa\pmel\util\TimeRange.class --> 192.168.0.126 /backup/average fluxes/gov/noaa/pmel/util TimeRange.class
+2003.02.19 00:46 B D:\0ctof3\average fluxes\gov\noaa\pmel\util\Units.class --> 192.168.0.126 /backup/average fluxes/gov/noaa/pmel/util Units.class
+2003.02.19 00:46 B D:\0ctof3\average fluxes\gov\noaa\pmel\util\Velocity.class --> 192.168.0.126 /backup/average fluxes/gov/noaa/pmel/util Velocity.class
+2003.02.19 00:46 B D:\0ctof3\average fluxes\gov\noaa\pmel\util\WS_FTP.LOG --> 192.168.0.126 /backup/average fluxes/gov/noaa/pmel/util WS_FTP.LOG
+2003.04.24 18:51 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\Debug.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util Debug.class
+2003.04.24 18:51 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\Dimension2D.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util Dimension2D.class
+2003.04.24 18:51 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\Distance.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util Distance.class
+2003.04.24 18:51 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\Domain.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util Domain.class
+2003.04.24 18:51 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\GeoDate.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util GeoDate.class
+2003.04.24 18:51 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\GeographicValue.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util GeographicValue.class
+2003.04.24 18:51 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\IllegalTimeValue.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util IllegalTimeValue.class
+2003.04.24 18:51 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\Latitude.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util Latitude.class
+2003.04.24 18:51 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\Longitude.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util Longitude.class
+2003.04.24 18:51 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\Point2D$Double.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util Point2D$Double.class
+2003.04.24 18:51 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\Point2D$Float.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util Point2D$Float.class
+2003.04.24 18:51 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\Point2D.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util Point2D.class
+2003.04.24 18:51 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\Range.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util Range.class
+2003.04.24 18:51 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\Range2D.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util Range2D.class
+2003.04.24 18:51 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\Rectangle2D$Double.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util Rectangle2D$Double.class
+2003.04.24 18:51 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\Rectangle2D.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util Rectangle2D.class
+2003.04.24 18:51 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\SoTDomain.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util SoTDomain.class
+2003.04.24 18:51 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\SoTPoint.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util SoTPoint.class
+2003.04.24 18:51 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\SoTRange$Double.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util SoTRange$Double.class
+2003.04.24 18:51 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\SoTRange$GeoDate.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util SoTRange$GeoDate.class
+2003.04.24 18:51 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\SoTRange.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util SoTRange.class
+2003.04.24 18:51 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\SoTValue$Double.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util SoTValue$Double.class
+2003.04.24 18:51 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\SoTValue$GeoDate.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util SoTValue$GeoDate.class
+2003.04.24 18:51 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\SoTValue.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util SoTValue.class
+2003.04.24 18:51 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\Temperature.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util Temperature.class
+2003.04.24 18:51 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\TimePoint.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util TimePoint.class
+2003.04.24 18:51 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\TimeRange.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util TimeRange.class
+2003.04.24 18:51 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\Units.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util Units.class
+2003.04.24 18:51 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\Velocity.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util Velocity.class
+2003.04.24 18:51 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\WS_FTP.LOG --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util WS_FTP.LOG
+2003.06.14 12:59 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\Rectangle2D.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util Rectangle2D.class
+2003.06.14 12:59 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\IllegalTimeValue.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util IllegalTimeValue.class
+2003.06.14 12:59 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\Debug.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util Debug.class
+2003.06.14 12:59 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\Point2D.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util Point2D.class
+2003.06.14 12:59 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\Distance.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util Distance.class
+2003.06.14 12:59 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\SoTValue.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util SoTValue.class
+2003.06.14 12:59 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\Range.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util Range.class
+2003.06.14 12:59 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\Latitude.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util Latitude.class
+2003.06.14 12:59 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\Longitude.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util Longitude.class
+2003.06.14 12:59 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\SoTRange.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util SoTRange.class
+2003.06.14 12:59 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\SoTValue$Double.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util SoTValue$Double.class
+2003.06.14 12:59 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\Point2D$Float.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util Point2D$Float.class
+2003.06.14 12:59 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\Point2D$Double.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util Point2D$Double.class
+2003.06.14 12:59 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\TimePoint.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util TimePoint.class
+2003.06.14 12:59 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\Units.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util Units.class
+2003.06.14 12:59 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\SoTValue$GeoDate.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util SoTValue$GeoDate.class
+2003.06.14 12:59 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\Dimension2D.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util Dimension2D.class
+2003.06.14 12:59 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\Rectangle2D$Double.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util Rectangle2D$Double.class
+2003.06.14 12:59 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\TimeRange.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util TimeRange.class
+2003.06.14 12:59 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\Range2D.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util Range2D.class
+2003.06.14 12:59 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\SoTPoint.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util SoTPoint.class
+2003.06.14 12:59 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\SoTDomain.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util SoTDomain.class
+2003.06.14 12:59 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\SoTRange$Double.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util SoTRange$Double.class
+2003.06.14 12:59 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\GeographicValue.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util GeographicValue.class
+2003.06.14 12:59 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\Domain.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util Domain.class
+2003.06.14 12:59 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\SoTRange$GeoDate.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util SoTRange$GeoDate.class
+2003.06.14 12:59 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\Velocity.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util Velocity.class
+2003.06.14 12:59 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\Temperature.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util Temperature.class
+2003.06.14 12:59 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\GeoDate.class --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util GeoDate.class
+2003.06.14 12:59 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\WS_FTP.LOG --> 192.168.0.126 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util WS_FTP.LOG
+2003.07.17 11:52 B D:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\WS_FTP.LOG --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util WS_FTP.LOG
+2004.02.01 14:00 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\Debug.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util Debug.class
+2004.02.01 14:00 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\Dimension2D.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util Dimension2D.class
+2004.02.01 14:00 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\Distance.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util Distance.class
+2004.02.01 14:00 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\Domain.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util Domain.class
+2004.02.01 14:00 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\GeoDate.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util GeoDate.class
+2004.02.01 14:00 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\GeographicValue.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util GeographicValue.class
+2004.02.01 14:00 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\IllegalTimeValue.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util IllegalTimeValue.class
+2004.02.01 14:00 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\Latitude.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util Latitude.class
+2004.02.01 14:00 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\Longitude.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util Longitude.class
+2004.02.01 14:00 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\Point2D$Double.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util Point2D$Double.class
+2004.02.01 14:00 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\Point2D$Float.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util Point2D$Float.class
+2004.02.01 14:00 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\Point2D.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util Point2D.class
+2004.02.01 14:00 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\Range.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util Range.class
+2004.02.01 14:00 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\Range2D.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util Range2D.class
+2004.02.01 14:00 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\Rectangle2D$Double.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util Rectangle2D$Double.class
+2004.02.01 14:00 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\Rectangle2D.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util Rectangle2D.class
+2004.02.01 14:00 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\SoTDomain.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util SoTDomain.class
+2004.02.01 14:00 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\SoTPoint.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util SoTPoint.class
+2004.02.01 14:00 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\SoTRange$Double.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util SoTRange$Double.class
+2004.02.01 14:00 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\SoTRange$GeoDate.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util SoTRange$GeoDate.class
+2004.02.01 14:00 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\SoTRange.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util SoTRange.class
+2004.02.01 14:00 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\SoTValue$Double.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util SoTValue$Double.class
+2004.02.01 14:00 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\SoTValue$GeoDate.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util SoTValue$GeoDate.class
+2004.02.01 14:00 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\SoTValue.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util SoTValue.class
+2004.02.01 14:00 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\Temperature.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util Temperature.class
+2004.02.01 14:00 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\TimePoint.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util TimePoint.class
+2004.02.01 14:00 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\TimeRange.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util TimeRange.class
+2004.02.01 14:00 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\Units.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util Units.class
+2004.02.01 14:00 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\Velocity.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util Velocity.class
+2004.02.01 14:00 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\WS_FTP.LOG --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util WS_FTP.LOG
+2004.02.01 14:43 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\WS_FTP.LOG --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util WS_FTP.LOG
+2004.02.01 14:59 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\WS_FTP.LOG --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util WS_FTP.LOG
+2004.02.20 23:28 B D:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\Debug.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util Debug.class
+2004.02.20 23:28 B D:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\Dimension2D.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util Dimension2D.class
+2004.02.20 23:28 B D:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\Distance.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util Distance.class
+2004.02.20 23:28 B D:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\Domain.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util Domain.class
+2004.02.20 23:28 B D:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\GeoDate.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util GeoDate.class
+2004.02.20 23:28 B D:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\GeographicValue.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util GeographicValue.class
+2004.02.20 23:28 B D:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\IllegalTimeValue.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util IllegalTimeValue.class
+2004.02.20 23:28 B D:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\Latitude.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util Latitude.class
+2004.02.20 23:28 B D:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\Longitude.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util Longitude.class
+2004.02.20 23:28 B D:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\Point2D$Double.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util Point2D$Double.class
+2004.02.20 23:28 B D:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\Point2D$Float.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util Point2D$Float.class
+2004.02.20 23:28 B D:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\Point2D.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util Point2D.class
+2004.02.20 23:28 B D:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\Range.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util Range.class
+2004.02.20 23:28 B D:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\Range2D.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util Range2D.class
+2004.02.20 23:28 B D:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\Rectangle2D$Double.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util Rectangle2D$Double.class
+2004.02.20 23:28 B D:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\Rectangle2D.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util Rectangle2D.class
+2004.02.20 23:28 B D:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\SoTDomain.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util SoTDomain.class
+2004.02.20 23:28 B D:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\SoTPoint.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util SoTPoint.class
+2004.02.20 23:28 B D:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\SoTRange$Double.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util SoTRange$Double.class
+2004.02.20 23:28 B D:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\SoTRange$GeoDate.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util SoTRange$GeoDate.class
+2004.02.20 23:28 B D:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\SoTRange.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util SoTRange.class
+2004.02.20 23:28 B D:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\SoTValue$Double.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util SoTValue$Double.class
+2004.02.20 23:28 B D:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\SoTValue$GeoDate.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util SoTValue$GeoDate.class
+2004.02.20 23:28 B D:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\SoTValue.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util SoTValue.class
+2004.02.20 23:28 B D:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\Temperature.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util Temperature.class
+2004.02.20 23:28 B D:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\TimePoint.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util TimePoint.class
+2004.02.20 23:28 B D:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\TimeRange.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util TimeRange.class
+2004.02.20 23:28 B D:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\Units.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util Units.class
+2004.02.20 23:28 B D:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\Velocity.class --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util Velocity.class
+2004.02.20 23:28 B D:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\WS_FTP.LOG --> 192.168.0.131 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util WS_FTP.LOG
+2004.03.10 00:21 B D:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\WS_FTP.LOG --> 192.168.0.135 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util WS_FTP.LOG
+2004.06.05 03:07 B D:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\WS_FTP.LOG --> 192.168.0.135 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util WS_FTP.LOG
+2004.06.21 02:27 B D:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\WS_FTP.LOG --> 192.168.0.135 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util WS_FTP.LOG
+2004.07.01 02:43 B d:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\WS_FTP.LOG --> 192.168.0.135 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util WS_FTP.LOG
+2004.07.01 02:54 B D:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\WS_FTP.LOG --> 192.168.0.135 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util WS_FTP.LOG
+2004.07.01 09:12 B D:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\WS_FTP.LOG --> 192.168.0.135 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util WS_FTP.LOG
+2004.07.14 04:03 B D:\0ctof3\catalog\average fluxes\gov\noaa\pmel\util\WS_FTP.LOG --> 192.168.0.119 /backup/0ctof3/catalog/average fluxes/gov/noaa/pmel/util WS_FTP.LOG
